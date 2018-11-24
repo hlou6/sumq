@@ -1,0 +1,6 @@
+*.csv
+*.Rproj
+*.Rhistory
+*.dcf
+.Rproj.user/
+rsconnect/
